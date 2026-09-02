@@ -186,10 +186,6 @@ Kontribusi
 - Fork proyek, buat branch feature/fix, lalu buat PR.
 - Sertakan deskripsi perubahan dan testing steps.
 
-Lisensi
--------
-Tambahkan file LICENSE sesuai pilihan Anda (MIT, Apache-2.0, dsb.). Saat ini repo belum menyertakan lisensi eksplisit — periksa dan tambahkan sesuai kebutuhan.
-
 Catatan developer (spesifik kode)
 --------------------------------
 - app3.py:
@@ -209,12 +205,3 @@ Contoh Quick Start singkat
 4. Login sebagai admin/admin atau register user baru.
 5. Untuk mencoba OCR, klik perintah suara (atau jalankan readtext.py) lalu tekan `c` untuk capture.
 
-Kontak / Credits
-----------------
-Dibuat oleh: RichelleMarvela (pemilik repo)
-Terima kasih kepada:
-- Tim EasyOCR & PyTorch
-- Kontributor OpenCV, pyttsx3, SQLAlchemy
-
-----------------------------------------
-Catatan: README ini dibuat berdasarkan kode yang tersedia (app3.py dan readtext.py). Jika ada file lain (templates, detectobject2.py, static assets), tambahkan bagian khusus pada README agar dokumentasi tetap sinkron dengan isi repo.
